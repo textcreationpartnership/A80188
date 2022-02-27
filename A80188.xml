@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collonel Morgans letter concerning his taking the strong garrison of Kildrummie from the highlanders in Scotland: with his letter and summons sent to Major Drumond, Major Drumonds answer thereunto; and the true copie of the articles concluded on between them: and the names of the hostages delivered for the performance thereof. Also, the highlanders falling down again into the lowlands, threatning fire and sword to all that refuse to joyn with them. And a great fight at Dunkill, the taking of Captain Thomason, and Col: Ramsies lieutenant, and 200 more prisoners, one hundred and fifty horse, and General Glencarns and the Earl of Kenmores ammunition, arms, bagg and baggage. And the blowing up of a strong castle with gunpowder. By J. Hill secretary to Collonel Morgan commander in chief of the English forces in the north of Scotland.</title>
+            <author>Colomiès, Paul, 1638-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80188</idno>
+            <idno type="STC">Wing C5410</idno>
+            <idno type="STC">Thomason E731_6</idno>
+            <idno type="STC">ESTC R206863</idno>
+            <idno type="EEBO-CITATION">99865961</idno>
+            <idno type="PROQUEST">99865961</idno>
+            <idno type="VID">166852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166852)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E731[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Collonel Morgans letter concerning his taking the strong garrison of Kildrummie from the highlanders in Scotland: with his letter and summons sent to Major Drumond, Major Drumonds answer thereunto; and the true copie of the articles concluded on between them: and the names of the hostages delivered for the performance thereof. Also, the highlanders falling down again into the lowlands, threatning fire and sword to all that refuse to joyn with them. And a great fight at Dunkill, the taking of Captain Thomason, and Col: Ramsies lieutenant, and 200 more prisoners, one hundred and fifty horse, and General Glencarns and the Earl of Kenmores ammunition, arms, bagg and baggage. And the blowing up of a strong castle with gunpowder. By J. Hill secretary to Collonel Morgan commander in chief of the English forces in the north of Scotland.</title>
+                  <author>Colomiès, Paul, 1638-1692.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by F: Neile in Aldersgatestreet.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March [the] 6:-".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166852:1" rendition="simple:additions"/>
+            <p>Collonel <hi>MORGANS</hi> LETTER Concerning his taking the ſtrong Garriſon of <hi>Kildrummie</hi> from the <hi>Highlanders</hi> in <hi>Scotland:</hi> With his Letter and Summons ſent to Major <hi>Drumond,</hi> Major <hi>Drumonds</hi> Anſwer thereunto; And the true Copie of the Articles concluded on between them: And the Names of the Hoſtages delivered for the performance thereof.</p>
+            <p>ALSO, The <hi>Highlanders</hi> falling down again into the <hi>Lowlands,</hi> threatning Fire and Sword to all that refuſe to joyn with them.</p>
+            <p>And a great Fight at <hi>Dunkill,</hi> the taking of Captain <hi>Thomſon,</hi> and Col: <hi>Ramſies</hi> Lieutenant, and 200 more priſoners, one hundred and fifty Horſe, and General <hi>Glen<g ref="char:EOLhyphen"/>carns</hi> and the Earl of <hi>Kenmores</hi> Ammunition, Arms, Bagg and Baggage. And the blowing up of a ſtrong Caſtle with Gunpowder.</p>
+            <p>By <hi>J. Hill</hi> Secretary to Collonel <hi>Morgan</hi> Commander in Chief of the <hi>Engliſh</hi> Forces in the North of <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F: Neile</hi> in Alderſgateſtreet. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <div type="letter">
+               <pb facs="tcp:166852:2"/>
+               <pb n="1" facs="tcp:166852:2"/>
+               <head>A Letter from Coll: <hi>Morgans</hi> Quartere in the North of <hi>Scotland,</hi> with the taking of the Garriſon of Kildrumain, and the Articles of Agreement betwixt Coll: <hi>Morgan,</hi> and Major <hi>Drummond.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Thought good to acquaint you that Coll: <hi>Thomas Morgan</hi> Commander in chief of the Forces in the North of <hi>Scotland,</hi> under<g ref="char:EOLhyphen"/>ſtanding of the enemies approach within 24 miles of this Town, he drew forth a bout 1100 horſe, dragoons, and foot, and upon the 9 inſtant after a very hard march, met with the Forces under the command of <hi>Glencarn,</hi> and <hi>Kenmore,</hi> about the number of 1400 horſe and foot: where after a ſhort diſpute up<g ref="char:EOLhyphen"/>on moſt baſe ground, he put them to a retreat, and for<g ref="char:EOLhyphen"/>ced them to a very ſtrong paſs, which 40 reſolute men might have kept againſt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, yet ſo cow'd were the e<g ref="char:EOLhyphen"/>nemy, that in a ſhort time providence ordered it ſo, that we recovered the Paſs, and in time put them to the rout, purſued them through ſuch invincible Hils, (as were the truth of them related would be imagined in<g ref="char:EOLhyphen"/>credible) which never Engliſh men marched over be<g ref="char:EOLhyphen"/>fore that time: there was about 120 of the enemy ſlain, 17 taken Priſoners, about 80 horſe, moſt of their Arms, all their Ammunition, Bag, and Baggage, all which the Lord was pleaſed to carry on with great facility to us, for there was not ſo much as one man of ours wound<g ref="char:EOLhyphen"/>ed, and we had only 2 Horſes ſlain: there was indeed one of Captain <hi>Merimons</hi> Troop ſhot through the
+<pb n="2" facs="tcp:166852:3"/>head by one of his fellow ſoldiers accidentally before the Ingagement, the next day having intelligence that the enemy had poſſeſſed a ſtrong houſe called <hi>Kildrum<g ref="char:EOLhyphen"/>my,</hi> where the Earl of <hi>Marr</hi> dwelt, who afterwards pre<g ref="char:EOLhyphen"/>rended he was ſurprized by the Enemy, yet ſo juſt are Scotchmen that now they begin to appear in their co<g ref="char:EOLhyphen"/>lours, they through our lenity being grown to ſuch a height, as that they m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke good thei o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d charecter, <hi>Turks</hi> and <hi>Scots</hi> coequal: We marched thither, and ſummo<g ref="char:EOLhyphen"/>ned it, an account you may have in the annexed paſſa<g ref="char:EOLhyphen"/>ges betwixt the commander in chief, and the Governor, as alſo the Articles for the ſurrender: after the ſaid Garriſon was reduced, we marched to our Winter Quarters to this Town, where we was welcomed with News from <hi>Johnſtons,</hi> that Coll: <hi>Daniel</hi> with a conſide<g ref="char:EOLunhyphen"/>rable party out of <hi>Johnſtons,</hi> and <hi>Dundee,</hi> reſolved to make an attempt upon <hi>Dunkel,</hi> being informed that there was a conſiderable party of the enemies horſe in that Town, and that <hi>Athol,</hi> and <hi>Forbus</hi> had ſetled a gar<g ref="char:EOLhyphen"/>riſon of about 60 perſons in an old Houſe in that place and victualled it for two months: upon Wedneſday being the 15 inſtant by break of day Col <hi>Daniels</hi> for<g ref="char:EOLhyphen"/>lorns fel into Dunkel with their Scours, having a quar<g ref="char:EOLhyphen"/>ter of and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower too ſhort of ſuprizing the Town; And for their eſcape they were beholding to the nearneſs of the Hils; yet as quick as they were we took 40 of their Horſes, &amp; after <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; a half won the Houſe, gaining room after room, in which time they were reduced to yeeld upon terms for life, their number with thoſe that were taken belonging to their Horſe, is about 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 40<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> killed b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſides what is wounded, the enemy look<g ref="char:EOLhyphen"/>ing on, Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Daniel blew up the houſe, and carried the
+<pb n="3" facs="tcp:166852:3"/>priſoners to Johnſton. Upon Friday night laſt 17 Inſt. there was one Cap: <hi>Thompſon,</hi> and Lieut: Col: <hi>Ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es</hi> Lieutenant came down with 5 or 6 more into the Lowlands to plunder horſes, and Lieut: <hi>Hellen</hi> Lieut. to Major <hi>Bramſton</hi> having intelligence thereof march<g ref="char:EOLhyphen"/>ed forth with 7 more Dragoons with him, out of the Garriſon of Thornſton, and after he had purſued them ten miles through the hils, chanced to catch them about 5 a clock in the morning, killed one of them, and brought the reſt priſoners to Dunotter Caſtle.</p>
+               <p>Sir, theſe blows are very ſeaſonable, for the Enemy were very high, and threatned all with fire and ſword, that would not joyn with them, I am apt to believe that the peace with the Dutch wil vaniſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> like ſmok, though notwithſtanding theſe Buſhes they give out high lan<g ref="char:EOLhyphen"/>guage, and ſay that they reſolve to gain their credit. I hope to hear from you, and remain,</p>
+               <closer>
+                  <dateline>
+                     <date>27 Febr. 1653.</date>
+                  </dateline>
+                  <signed>Your affectionate Nepher, J. H.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Coll: <hi>Morgans</hi> Summ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns to the Governor of <hi>Kildrummie.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe command of the Forces in the North of Scotland being committed to my conduct, I thought good to ſignifie that yeſterday meeting the Forces commanded by the Lord Glencarn, it pleaſed God that we diſperſt, and totally Rou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed them, and un<g ref="char:EOLhyphen"/>derſtanding that you had poſſeſſed the houſe of <hi>Kil<g ref="char:EOLhyphen"/>drummie,</hi> to the great diſturbance of the peace of this Nation, I marched hither, and do ſtrictly ſummon you upon ſight hereof to deliver unto me the ſaid houſe of <hi>Kildrummie,</hi> with all the Arms, and Ammunition ther<g ref="char:EOLhyphen"/>in for the uſe of his Highneſs the Lord Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi>
+                  <pb n="4" facs="tcp:166852:4"/>and in caſe you yeeld obedience hereunto, I ſhall give you liberty to go to your own homes, and live at peace you ingaging that you will act nothing prejudicial to the Engliſh Army, but on the contrary, if there happen the leaſt effuſion of blood unto any under my com<g ref="char:EOLhyphen"/>mand, then expect no mercy. Your anſwer I expect within half an hour, and remain,</p>
+               <trailer>
+                  <hi>For Major</hi> William Dammond <hi>Officer in chief within the Houſe of Kildrummy.</hi>
+               </trailer>
+               <closer>
+                  <signed>Yours as I find you, Tho: Morgan.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Major <hi>Drummonds</hi> Anſwer.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Received yours, and find your propoſitions very hard without order from my Lord General, alwaies Sir, if you will be pleaſed to ſuffer me to ſend one to my Lord General, and upon his return we ſhal render the houſe if they come not again Monday at night for our relief, we ſhall march with our horſe and arms to a<g ref="char:EOLhyphen"/>ny part of the Kings Army in Scotland, and withal the place be made uſeles for any garriſon, and for the effu<g ref="char:EOLhyphen"/>ſion of bloud we take God to witneſs, yours ſhall be the fault: no further but</p>
+               <closer>
+                  <dateline>Kildrummie <date>23 <hi>Febr:</hi> 1654.</date> 
+                     <hi>For Col.</hi> Morgan <hi>Comman<g ref="char:EOLhyphen"/>der of the Engliſh Forces.</hi>
+                  </dateline>
+                  <signed>Yours as time ſhall produce, Wil. Drummond.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>SIR, I have conſidered your Anſwer, and cannot grant your deſires, yet ſo tender am I of ſhed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of bloud in caſe you be not ſatisfied with the terms I offered, if you pleaſe to ſend 1 or 2 Officers fully authorized to treat in order to your ſudden ſurrender, I ſhall rather deal honorable, then uſe cruelty, <hi>I</hi> expect your anſwer by this Bearer, and am</p>
+               <trailer>
+                  <hi>For Major</hi> Drummond <hi>Officer in chief in the Houſe of Kildrumie.</hi>
+               </trailer>
+               <closer>
+                  <signed>Yours as occaſion ſhall ſerve, Tho: Morgan.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:166852:4"/>
+               <p>SIR, I have received yours, and am as loth to ſhed blood at this time as any ſhal be, Sir, I thought you would have ſuf<g ref="char:EOLhyphen"/>fered me to have ſent to my L. Gen: becauſe I being put here by him, and on ſuch a ſudden to ſurrender, I beleeve no man of honor but might eſteem me the baſeſt of men, but howe<g ref="char:EOLhyphen"/>ver for the matter of Treaty, if you pleaſe to ſend down to the gate one or two, I ſhall wait on them there to hear your will; no more but that I am</p>
+               <trailer>
+                  <hi>For Coll.</hi> Morgan <hi>commander in chief of the Engliſh Forces in the North of Scotland.</hi>
+               </trailer>
+               <closer>
+                  <signed>Yours to meeting, W: Drummond.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>SIr, according to your intimation I have ſent Lieut. Coll: <hi>Simmons,</hi> and Major <hi>Knight</hi> to treat, in order to your ſud<g ref="char:EOLhyphen"/>den ſurrender of the Houſe of <hi>Kildrummie,</hi> and what ever they conclude, ſhall be made good by me</p>
+               <trailer>
+                  <hi>For Major</hi> William Drummond <hi>Officer in chief within the Houſe of</hi> Kildrummy.</trailer>
+               <closer>
+                  <signed>Tho: Morgan.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>The Commiſſioners could not agree, ſo that the Treaty broak, but the next morning <hi>Drummond</hi> ſent his Drum with this following Letter.</p>
+               <p>SIR, I thought good to ſhow you that it is but a ſhort time betwixt Monday, and Thurſday, and becauſe we have bedding, and ſome other things which we brought from the Country people, and did ingage to give them back at our lea<g ref="char:EOLhyphen"/>ving the place, before which time we can hardly get done, if you Sir, think this fit, let us meet, and condeſcend on Articles, and to ſuch time I reſt</p>
+               <closer>
+                  <dateline>Kildrummie <date>12 <hi>Febr:</hi> 1653/4.</date> 
+                     <hi>For Col:</hi> Morgan <hi>Commander in cheif of the Engliſh Forces in the North. Theſe.</hi>
+                  </dateline>
+                  <signed>Yours as occaſion offers, Wil. Drummond.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>SIr, I perceive that you ſtil perſiſt in your delaies, but this may ſuffice you that I ſhal not afford you any longer time to march then too morrow at 10 a clock, and becauſe your re<g ref="char:EOLhyphen"/>delivery of the Countries Goods ſhall not cauſe you to Diſ<g ref="char:EOLhyphen"/>pute: in caſe thoſe whom I ſend to treat, and conclude, and you agree, I ſhall give you liberty to leave one behind, to ſee the Goods diſpoſed on according to your ingagement, who ſhall have free liberty to act accordingly; I expect your im<g ref="char:EOLhyphen"/>mediat
+<pb n="6" facs="tcp:166852:5"/>anſwer, and remain</p>
+               <trailer>
+                  <hi>For Major</hi> Drummond <hi>Commander in chief within the Houſe of</hi> Kildrummie.</trailer>
+               <closer>
+                  <signed>Yours if you be your own, Tho: Morgan.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>SIr, I received yours, and if we agree on Articles I ſhal march to morrow by 10 a clock, ſo expecting thoſe who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you, ſend to treat at the place where we met laſt night, where I ſhall attend them. I reſt Sir,</p>
+               <closer>
+                  <dateline>Kildrummie <date>12 Febr. 1653/4.</date> 
+                     <hi>For Coll.</hi> Morgan <hi>Commander in chief of the Engliſh forces in the North. Theſe.</hi>
+                  </dateline>
+                  <signed>Yours as before.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>Upon which theſe enſuing Articles were agreed upon, and Corner <hi>Barhom</hi> was ſent into the houſe as Hoſtage on our part, and Corner <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdon, Kenmores</hi> Cornet was delivered as Hoſtage for the Houſe.</p>
+               <p>Articles agreed upon for the ſurrender of the Houſe of <hi>Kil<g ref="char:EOLhyphen"/>drumie</hi> this 26 Feb: 1653/4 betwixt Lieut: Coll. <hi>Simmons,</hi> and Major <hi>Knight</hi> on the behalf of the Engliſh Forces.</p>
+               <p>And Major <hi>W: Drummond</hi> Governor of the foreſaid Houſe, and Cap: <hi>Mathew Hambleton,</hi> on the behalf of the <hi>Scotch</hi> forces.</p>
+               <p n="1">1. <hi>That the ſaid Governor is to march with all the forces in the ſaid Houſe, Arms, Ammunition, Bagg, and Baggage to morrow morning by ten a clock to the neareſt place where any of the Scotch Forces are, without moleſtation, and to have a Paſs to that purpoſe from Collonel</hi> Morgan, <hi>unto whom he is to ſurrender the ſaid Houſe without any demolition, for the uſe of his Highneſs the Lord Protector of the Com<g ref="char:EOLhyphen"/>mon-wealth of</hi> England, Scotland, <hi>and</hi> Ireland.</p>
+               <p n="2">2. <hi>That the ſaid Governor ſhall have liberty to leave an Officer to diſpoſe of the Country goods which are in the ſaid Houſe, either belonging to the Earl of</hi> Marr, <hi>or any other.</hi>
+               </p>
+               <p n="3">3. <hi>That the ſaid Governor ſhall march ten miles a day, with the party under under his command, except the firſt day, till they come at the forces, and are not to moleſt or trouble any of the Forces belonging to his Highneſs the Lord Protector upon their march, upon any account whatſoever; for the performance whereof, each Subſcribed.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>NOw I ſhall take the boldnes to acquaint you, that in caſe the Caſtle had not been delivered that day, neither our horſe nor foot had been able to have continued there one night longer, the ſeaſon of the year not permitting it; Neither were we able to do any good upon the Houſe without battering guns which could not have come to us in a weeks time, ſo that after ſerious Debate at a Councel of War, it was concluded better to allow honorable tearms to them, then with diſhonor to leave it, having been before it three nights.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
